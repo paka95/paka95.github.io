@@ -260,30 +260,30 @@ a:hover {
     }
 
     .heading {
-        font-size: 1.8vh;
+        font-size: 2vh;
     }
     
     a {
-        font-size: 1.8vh;
+        font-size: 2vh;
     }
 
     .about-font {
-        font-size: 1.7vh;
+        font-size: 1.9vh;
     }
     
     .projects-font {
-        font-size: 1.7vh;
+        font-size: 1.9vh;
     }
     
     .project-title {
-        font-size: 1.8vh;
+        font-size: 2vh;
     }
 
     .subcontent-title {
-        font-size: 1.7vh;
+        font-size: 1.9vh;
     }
 
     .column-item {
-        font-size: 1.8vh;
+        font-size: 2vh;
     }
 }
